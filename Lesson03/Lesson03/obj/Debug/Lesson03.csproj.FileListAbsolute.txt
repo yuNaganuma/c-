@@ -1,0 +1,5 @@
+c:\users\yu\documents\visual studio 2015\Projects\Lesson03\Lesson03\bin\Debug\Lesson03.exe.config
+C:\Users\Yu\Documents\Visual Studio 2015\Projects\Lesson03\Lesson03\bin\Debug\Lesson03.exe
+C:\Users\Yu\Documents\Visual Studio 2015\Projects\Lesson03\Lesson03\bin\Debug\Lesson03.pdb
+C:\Users\Yu\Documents\Visual Studio 2015\Projects\Lesson03\Lesson03\obj\Debug\Lesson03.exe
+C:\Users\Yu\Documents\Visual Studio 2015\Projects\Lesson03\Lesson03\obj\Debug\Lesson03.pdb
